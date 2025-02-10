@@ -61,11 +61,9 @@ Ask questions about the document in the chat input.
 
 View answers and chat history dynamically.
 
-📸 Screenshots
 
 
-
-🛑 Troubleshooting
+## 🛑 Troubleshooting
 
 Q: My PDF is not being processed!✅ Ensure the file path is correct in the PDF_STORAGE_PATH variable.
 
@@ -79,8 +77,4 @@ ollama pull deepseek-r1:1.5b
 
 Q: How do I clear chat history?✅ Restart the Streamlit app or manually reset st.session_state.chat_history.
 
-
-🐦 Twitter: @yourhandle
-
-💼 LinkedIn: linkedin.com/in/yourprofile
 
